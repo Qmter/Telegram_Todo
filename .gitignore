@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+dist/
+build/
+*.whl
+*.zip
+*.tar.gz
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.pydevproject
+.python-version
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sqlite3
+*.db
+*.db-journal
+
+# Environment variables
+.env
+.flaskenv
+
+# Log files
+*.log
